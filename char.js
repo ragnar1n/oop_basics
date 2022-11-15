@@ -4,6 +4,6 @@ class Char{
     }
 
     Who(){
-        console.log(`It's me, ${this.name}`)
+        console.log("Hi, I'm "+this.name+'!')
     }
 }
